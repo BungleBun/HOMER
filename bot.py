@@ -1,3 +1,4 @@
+#Testing to make sure my new git setup works after switching to linux
 import os
 import discord
 from dotenv import load_dotenv
